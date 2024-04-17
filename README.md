@@ -18,3 +18,5 @@ Projeto realizado para o Ada Hack de 2024, Hackaton realizados para os alunos co
 
 No documento está detalhado o contexto do projeto, a metodologia, os resultados, recomendações, conclusão e a lista de referências utilizadas.
 
+Para acessar o relatório, basta clicar [aqui](https://github.com/ADA-Hack-Grupo-DD3/Documentacao/blob/main/relatorio_dd3.pdf).
+
