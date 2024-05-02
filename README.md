@@ -16,7 +16,6 @@ Projeto realizado para o Ada Hack de 2024, Hackaton realizados para os alunos co
 
 | A escrita do realatório foi realizado por Amanda Souza para o Ada Hack 2024.
 
-No documento está detalhado o contexto do projeto, a metodologia, os resultados, recomendações, conclusão e a lista de referências utilizadas.
+No documento está detalhado o contexto do projeto, a metodologia, os resultados, recomendações, conclusão, a lista de referências utilizadas bem como a descrição das contribuições dos integrantes.
 
 Para acessar o relatório em `pdf`, basta clicar [aqui](https://github.com/ADA-Hack-Grupo-DD3/Documentacao/blob/main/relatorio_dd3.pdf).
-
